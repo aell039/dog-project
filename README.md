@@ -8,8 +8,11 @@ The motivation for this project is to create a convolutional neural network with
 
 ## Libraries used
 
-Keras - to create our neural network
-OpenCV - image manipulation and associated functions
+- Keras - to create our neural network
+- OpenCV (cv2) - image manipulation and associated functions
+- matplotlib - for drawing bounding boxes on images
+- PIL - loading images
+
 
 ## Files in this repo
 
